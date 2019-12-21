@@ -1,1 +1,1 @@
-export const HOSTNAME = 'https://jefrydco.id'
+export const HOSTNAME = 'https://enalfarid.digital'

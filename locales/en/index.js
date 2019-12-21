@@ -1,5 +1,5 @@
 export default {
-  description: 'A personal site of Jefry Dewangga',
+  description: 'A personal site of Enal Farid',
   discussTwitter: 'Discuss on Twitter',
   editGithub: 'Edit on Github',
   minRead: 'min read',

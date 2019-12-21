@@ -93,18 +93,18 @@ export default {
             },
             publisher: {
               '@type': 'Organization',
-              name: 'Jefrydco',
-              sameAs: 'https://www.facebook.com/jefrydco.id',
+              name: 'EnalFarid',
+              sameAs: 'https://www.twitter.com/enalfarid',
               logo: {
                 '@type': 'imageObject',
-                url: `${HOSTNAME}/icon.png`,
+                url: `${HOSTNAME}/logo-ef.png`,
                 width: '2739',
                 height: '3102'
               }
             },
             author: {
               '@type': 'Person',
-              name: 'Jefry Dewangga'
+              name: 'Enal Farid'
             }
           })
         },

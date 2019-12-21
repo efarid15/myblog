@@ -18,7 +18,7 @@ export default {
           rel: 'alternate',
           type: 'application/rss+xml',
           href,
-          title: `Blog - Jefrydco`
+          title: `Blog - Enal Farid`
         }
       })
       .concat({
@@ -43,11 +43,11 @@ export default {
           innerHTML: JSON.stringify({
             '@context': 'https://schema.org/',
             '@type': 'Blog',
-            name: 'Jefrydco',
-            headline: 'A personal site of Jefry Dewangga',
-            description: 'A personal site of Jefry Dewangga',
-            about: 'A personal site of Jefry Dewangga',
-            keywords: 'jefrydco, Jefry Dewangga',
+            name: 'EnalFarid',
+            headline: 'A personal site of Enal Farid',
+            description: 'A personal site of Enal Farid',
+            about: 'A personal site of Enal Farid',
+            keywords: 'enalfarid, Enal Farid',
             genre: ['Personal', 'Tutorial', 'Programming', 'Review', 'Science'],
             copyrightYear: new Date().getFullYear(),
             dateCreated: '2017-03-12',
@@ -57,17 +57,17 @@ export default {
             license: 'https://opensource.org/licenses/MIT',
             image: {
               '@type': 'imageObject',
-              url: `${HOSTNAME}/icon.png`,
+              url: `${HOSTNAME}/logo-ef.png`,
               width: '2739',
               height: '3102'
             },
             publisher: {
               '@type': 'Organization',
-              name: 'Jefrydco',
-              sameAs: 'https://www.facebook.com/jefrydco.id',
+              name: 'EnalFarid',
+              sameAs: 'https://www.twitter.com/enalfarid',
               logo: {
                 '@type': 'imageObject',
-                url: `${HOSTNAME}/icon.png`,
+                url: `${HOSTNAME}/logo-ef.png`,
                 width: '2739',
                 height: '3102'
               }
@@ -96,18 +96,18 @@ export default {
               },
               publisher: {
                 '@type': 'Organization',
-                name: 'Jefrydco',
-                sameAs: 'https://www.facebook.com/jefrydco.id',
+                name: 'EnalFarid',
+                sameAs: 'https://www.twitter.com/enalfarid',
                 logo: {
                   '@type': 'imageObject',
-                  url: `${HOSTNAME}/icon.png`,
+                  url: `${HOSTNAME}/logo-ef.png`,
                   width: '2739',
                   height: '3102'
                 }
               },
               author: {
                 '@type': 'Person',
-                name: 'Jefry Dewangga'
+                name: 'Enal Farid'
               }
             }))
           })

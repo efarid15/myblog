@@ -104,38 +104,16 @@ export default {
         },
         creator: {
           '@type': 'Person',
-          name: 'Jefry Dewangga',
-          alternateName: 'Jefrydco',
-          birthDate: '1998-03-12',
+          name: 'Enal farid',
+          alternateName: 'enalfarid',
+          birthDate: '1981-01-15',
           gender: { '@type': 'GenderType', alternateName: 'Male' },
-          url: [
-            `${HOSTNAME}`,
-            'https://jefrydco.tumblr.com/',
-            'https://jefrydco.blogspot.com/',
-            'https://jefrydco.wordpress.com/'
-          ],
+          url: [`${HOSTNAME}`, 'https://www.enalfarid.digital/'],
           sameAs: [
-            'https://about.me/jefrydco',
-            'https://angel.co/jefrydco',
-            'https://behance.net/jefrydco',
-            'https://dribbble.com/jefrydco',
-            'https://foursquare.com/jefrydco',
-            'https://github.com/jefrydco',
-            'https://goodreads.com/jefrydco',
-            'https://instagram.com/jefrydco',
-            'https://medium.com/@jefrydco',
-            'https://pinterest.com/jefrydco',
-            'https://plus.google.com/+JefryDewangga',
-            'https://quora.com/jefrydco',
-            'https://reddit.com/user/jefrydco',
-            'https://soundcloud.com/jefrydco',
-            'https://stackoverflow.com/users/7711812/jefry-dewangga',
-            'https://twitter.com/jefrydco',
-            'https://vimeo.com/jefrydco',
-            'https://www.facebook.com/jefrydco',
-            'https://www.last.fm/user/jefrydco',
-            'https://www.linkedin.com/in/jefrydco/',
-            'https://www.xing.com/profile/Jefry_Dewangga'
+            'https://github.com/enalfarid',
+            'https://instagram.com/enalfarid',
+            'https://medium.com/@enalfarid',
+            'https://twitter.com/enalfarid'
           ]
         }
       })

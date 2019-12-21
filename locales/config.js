@@ -1,7 +1,7 @@
 import { locales } from '../utils'
 
 export default {
-  baseUrl: 'https://jefrydco.id',
+  baseUrl: 'https://enalfarid.digital',
   seo: false,
   defaultLocale: 'id',
   detectBrowserLanguage: false,

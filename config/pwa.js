@@ -3,21 +3,21 @@ import { HOSTNAME } from '../constant'
 export default {
   // https://pwa.nuxtjs.org/modules/meta.html
   meta: {
-    name: 'Jefrydco',
-    description: 'A personal site of Jefry Dewangga',
+    name: 'EnalFarid',
+    description: 'A personal site of Enal Farid',
     lang: 'id',
     ogHost: `${HOSTNAME}`,
     twitterCard: 'summary_large_image',
-    twitterSite: '@jefrydco',
-    twitterCreator: '@jefrydco'
+    twitterSite: '@enalfarid',
+    twitterCreator: '@enalfarid'
   },
 
   // https://pwa.nuxtjs.org/modules/manifest.html
   manifest: {
-    name: 'Jefrydco',
-    short_name: 'Jefrydco',
+    name: 'EnalFarid',
+    short_name: 'enalfarid',
     start_url: '/?utm_source=homescreen',
-    description: 'A personal site of Jefry Dewangga',
+    description: 'A personal site of Enal Farid',
     lang: 'id',
     background_color: '#2D3748',
     theme_color: '#2D3748'

@@ -1,15 +1,15 @@
 {
-  "name": "jefrydco",
+  "name": "enalfarid",
   "version": "2.0.0",
-  "description": "A personal website of Jefry Dewangga",
+  "description": "A personal website of Enal Farid",
   "author": {
-    "name": "Jefry Dewangga",
-    "url": "https://jefrydco.id"
+    "name": "Enal Farid",
+    "url": "https://enalfarid.digital"
   },
   "private": true,
   "keywords": [
-    "jefrydco",
-    "Jefry Dewangga",
+    "enalfarid",
+    "Enal Farid",
     "nuxt",
     "nuxt pwa",
     "nuxt.js",
@@ -22,13 +22,13 @@
     "vuejs",
     "tailwindcss"
   ],
-  "homepage": "https://github.com/jefrydco/jefrydco#readme",
+  "homepage": "https://enalfarid.digital",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jefrydco/jefrydco.git"
+    "url": "https://www.github.com/enalfarid"
   },
   "bugs": {
-    "url": "https://github.com/jefrydco/jefrydco/issues"
+    "url": "https://www.github.com/enalfarid"
   },
   "license": "MIT",
   "scripts": {

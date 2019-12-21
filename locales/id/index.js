@@ -1,5 +1,5 @@
 export default {
-  description: 'Situs pribadi Jefry Dewangga',
+  description: 'Situs pribadi Enal Farid',
   discussTwitter: 'Diskusikan di Twitter',
   editGithub: 'Sunting di Github',
   minRead: 'mnt dibaca',

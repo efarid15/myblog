@@ -1,7 +1,7 @@
 /* AUTHOR */
-	Author		  : Jefry Dewangga
-	From	  	  : Surabaya, East Java, Indonesia
-	Twitter		  : @jefrydco
+	Author		  : Enal Farid
+	From	  	  : Makassar, South Sulawesi, Indonesia
+	Twitter		  : @enalfarid
 
 /* SITE */
 	Language	  : Indonesian / English
