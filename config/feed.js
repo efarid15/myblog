@@ -17,16 +17,16 @@ export default () => {
       type: 'rss2',
       async create(feed) {
         feed.options = {
-          title: 'Blog - Jefrydco',
+          title: 'Blog - Enalfarid',
           id: `${HOSTNAME}${path}/`,
           link: `${HOSTNAME}${path}/`,
           language: locale.code,
-          description: 'A personal site of Jefry Dewangga.'
+          description: 'A personal site of Enal Farid.'
         }
 
         feed.addContributor({
-          name: 'Jefry Dewangga',
-          email: 'jefrydco@gmail.com',
+          name: 'Enal Farid',
+          email: 'farid.enal@gmail.com',
           link: `${HOSTNAME}`
         })
 
