@@ -18,27 +18,9 @@ export default {
       name: 'og:image:alt',
       property: 'og:image:alt',
       content: 'Enal Farid'
-    },
-    { property: 'fb:admins', content: 100003000286186 },
-    {
-      property: 'fb:app_id',
-      content: 267913173658573
-    },
-    { property: 'fb:pages', content: 632770976865033 },
-    {
-      name: 'google-site-verification',
-      content: 'uDWa7gsQlLiIe_Nk0fG5AvaW8vyEyOFuAZNDdmaZB4M'
     }
   ],
   link: [
-    {
-      rel: 'webmention',
-      href: 'https://webmention.io/jefrydco.id/webmention'
-    },
-    {
-      rel: 'pingback',
-      href: 'https://webmention.io/jefrydco.id/xmlrpc'
-    },
     {
       type: 'text/plain',
       rel: 'author',
